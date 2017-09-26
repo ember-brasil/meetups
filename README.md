@@ -39,7 +39,7 @@ Como qualquer grupo, existem algumas regras que devem ser seguidas para proporci
 Você pode receber atualizações do Meetups no seu email ou via notificações do GitHub, basta clicar em **Watch** e, em seguida, clicar em **Watching** no canto superior direito da interface do site, próximo a sua foto de perfil.
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/1218337/30865843-13b85d2e-a2ae-11e7-8df3-b4604d8b35e8.png)" alt="Watch GitHub repo"/>
+  <img src="https://s26.postimg.org/3q3za6wih/Captura_de_Tela_2017-09-26_a_s_11.29.34.png" alt="Watch GitHub repo"/>
 </p>
 
 ## Comunicação
